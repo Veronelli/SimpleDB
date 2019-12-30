@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570243513 source:c:\users\facundo\documents\trabajos\codeblocks\menu\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
